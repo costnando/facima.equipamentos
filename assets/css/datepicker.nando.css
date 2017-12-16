@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700,900');
+
+.datepicker-container {
+	border: 0;
+	border-top: 1px solid #006FA7;
+	border-bottom: 2px solid #006FA7;
+	border-radius: 8px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.datepicker-container:before {
+	border-bottom-color: #006FA7;
+}
+
+.datepicker-bottom-left:before, .datepicker-bottom-right:before {
+	border-top-color: #006FA7;
+}
+
+.datepicker-container .datepicker-panel {
+	border-radius: 8px;
+	overflow: hidden;
+}
+
+.datepicker-container .datepicker-panel .picked {
+	background: #EEE;
+	color: #006FA7;
+	transition: 0.3s;
+}
+
+.datepicker-container .datepicker-panel .picked:hover {
+	background: #CCC;
+	color: #CC9F29;
+}
+
+.datepicker-container .datepicker-panel  ul  li {
+	transition: 0.3s;
+}
+
+.datepicker-container .datepicker-panel  ul  li:hover {
+	background: #CCC;
+}
