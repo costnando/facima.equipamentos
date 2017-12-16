@@ -1,8 +1,8 @@
 # Facima Equipamentos
-Equipment software developed by NightWeb.com.br for faculty FACIMA!
+Equipment software with stock control and reservation for teachers developed by NightWeb.com.br for the educational institution FACIMA!
 ***
 ### Default Data
-* **Username:** admin
+* **Email:** contato@nightweb.com.br
 * **Password:** nightweb
 #
 This data above is given default access system administrator's equipment!
