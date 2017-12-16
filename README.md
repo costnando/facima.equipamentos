@@ -6,3 +6,5 @@ Equipment software with stock control and reservation for teachers developed by 
 * **Password:** nightweb
 #
 This data above is given default access system administrator's equipment!
+#
+The programming language used was **PHP 7** with **MySQL** database
